@@ -1,0 +1,6 @@
+Read N
+Set N = 0
+While (N >= 0)
+Set sum = N + sum
+Else If sum < 0
+Write sum
